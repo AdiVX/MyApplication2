@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void testUpload()
     {
         int i = 123 + 123;
+        int ab = 87 * 9824;
+        int ii = i + ab;
     }
 }
